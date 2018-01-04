@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "222307670292",
+    "firebase_url": "https://databasestoreretrive.firebaseio.com",
+    "project_id": "databasestoreretrive",
+    "storage_bucket": "databasestoreretrive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222307670292:android:5bad3922ce081f19",
+        "android_client_info": {
+          "package_name": "com.example.appy_sales.databasestoreretrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222307670292-8cm9mhkgd5dmumhvk8m2phpqr1s8n9ju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appy_sales.databasestoreretrive",
+            "certificate_hash": "79021b6076a89b7fa3c8f7078a963f182f4015bb"
+          }
+        },
+        {
+          "client_id": "222307670292-shrahu0iispgfp03act9b18k474ap92k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZHzq1gJaTbO2AQZmz41wV8GTGWti5DdE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222307670292-shrahu0iispgfp03act9b18k474ap92k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Real Time Databse</string>
+    <string name="minimum_password">Password should be more than 3 character</string>
+</resources>
